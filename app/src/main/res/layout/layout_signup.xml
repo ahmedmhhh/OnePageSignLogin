@@ -10,7 +10,7 @@
 
     <ImageView
         android:src="@mipmap/userlogo"
-        android:scaleType="centerCrop"
+        android:scaleType="centerInside"
         android:layout_width="100dp"
         android:layout_height="100dp" />
 <android.support.design.widget.TextInputLayout
